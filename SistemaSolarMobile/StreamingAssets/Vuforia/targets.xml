@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="book_school" size="50.000000 73.817764" />
+    <ImageTarget name="book2" size="50.000000 63.611111" />
+    <ImageTarget name="mao" size="50.000000 88.888885" />
+    <ImageTarget name="book" size="50.000000 28.125000" />
+    <ImageTarget name="image_cube" size="10.000000 17.777779" />
+  </Tracking>
+</QCARConfig>
